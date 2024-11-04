@@ -1,1 +1,1 @@
-https://github.com/milovmv/ono-tebe-nad
+https://github.com/milovmv/ono-tebe-nado
