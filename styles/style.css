@@ -87,7 +87,7 @@
 
 .cover__title {
     display: grid;
-    gap: 4px;
+    gap: 6px;
     color: white;
     font-size: 100px;
     font-weight: bold;
@@ -104,8 +104,6 @@
 }
 
 .aligned-text_center {
-    padding-top: 5px;
-    padding-right: 58px;
     text-align: center;
 }
 
@@ -182,6 +180,7 @@
     position: relative;
     background-position: center;
     background-size: cover;
+    z-index: 0;
     
 }
 
